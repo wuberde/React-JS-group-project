@@ -1,0 +1,28 @@
+footer 
+    make text bigger done
+    shadow done 
+    payments methods done 
+
+fix bug header links done 
+
+
+Cart
+    Delete btn done
+    some extra text done
+    style text done 
+    photo shadow closer to the img done
+    border radius match to the outer done
+
+
+
+Help
+    text Done
+
+search 
+    RM   border on over
+
+
+header 
+    cart icon  /   cart design done
+    style text done
+
